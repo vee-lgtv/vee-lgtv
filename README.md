@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Verônica Nunes, tenho 16 anos e sou de São Paulo. Estou no ensino médio em escola publica e durante ele realizeo o curso técnico em Informática para Internet na ETEC. Armando José Farinazzo em Fernandópolis-SP.  S
+Me chamo Verônica Nunes, tenho 16 anos e sou de São Paulo. Estou no ensino médio em escola publica e durante ele realizeo o curso técnico em Informática para Internet na ETEC. Armando José Farinazzo em Fernandópolis-SP.  
 <p align="left">
     <a href="https://www.linkedin.com/in/álvaro-miguel-1b4606331/">
         <img 
