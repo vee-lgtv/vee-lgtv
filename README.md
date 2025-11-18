@@ -26,22 +26,22 @@ Me chamo Verônica Nunes, tenho 16 anos e sou de São Paulo. Estou no ensino mé
 ### 🤖 Linguagens e Tecnologias
 
 <img 
-    align="left" 
-    alt="HTML"
+     align="left"
+      alt="HTML"
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-<img 
-    align="left" 
+ <img  
+     align="left"  
     alt="CSS" 
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<img 
+ <img  
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
@@ -49,7 +49,7 @@ Me chamo Verônica Nunes, tenho 16 anos e sou de São Paulo. Estou no ensino mé
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
+ <img  
     align="left" 
     alt="Java"
     title="Java" 
@@ -57,7 +57,7 @@ Me chamo Verônica Nunes, tenho 16 anos e sou de São Paulo. Estou no ensino mé
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" 
 />
-<img 
+<!-- <img  -->
     align="left" 
     alt="C++"
     title="C++" 
@@ -65,7 +65,7 @@ Me chamo Verônica Nunes, tenho 16 anos e sou de São Paulo. Estou no ensino mé
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
-<img 
+<!-- <img  -->
     align="left" 
     alt="Python"
     title="Python" 
@@ -73,7 +73,7 @@ Me chamo Verônica Nunes, tenho 16 anos e sou de São Paulo. Estou no ensino mé
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img 
+<!-- <img  -->
     align="left" 
     alt="SpringBoot"
     title="SpringBoot" 
@@ -81,7 +81,7 @@ Me chamo Verônica Nunes, tenho 16 anos e sou de São Paulo. Estou no ensino mé
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
-<img 
+<!-- <img  -->
     align="left" 
     alt="Git"
     title="Git" 
@@ -97,7 +97,7 @@ Me chamo Verônica Nunes, tenho 16 anos e sou de São Paulo. Estou no ensino mé
 ### 📊 Estatísticas
 
 <p>
-  <img 
+  <!-- <img  -->
     align="left" 
     alt="GitHub Stats" 
     height="200" 
@@ -105,7 +105,7 @@ Me chamo Verônica Nunes, tenho 16 anos e sou de São Paulo. Estou no ensino mé
     src="https://github-readme-stats.vercel.app/api?username=alvarowrl&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
+<!-- <img  -->
       align="left" 
       alt="GitHub Stats" 
       height="200" 
