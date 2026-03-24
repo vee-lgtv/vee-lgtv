@@ -4,11 +4,11 @@
 
 Me chamo Verônica Nunes, tenho 16 anos e sou de São Paulo. Estou no ensino médio em escola publica e durante ele realizeo o curso técnico em Informática para Internet na ETEC. Armando José Farinazzo em Fernandópolis-SP.  
 <p align="left">
-    <a href="https://www.linkedin.com/in/álvaro-miguel-1b4606331/">
+    <!-- <a href="https://www.linkedin.com/in/álvaro-miguel-1b4606331/"> -->
         <img 
-            alt="linkedin" 
-            title="Conecte-se" 
-            src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+            <!-- alt="linkedin"  -->
+            <!-- title="Conecte-se"  -->
+            <!-- src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" -->
         />
     </a>
     <!-- <a href="https://www.instagram.com/alvarowrl/"> -->
