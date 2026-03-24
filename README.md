@@ -11,12 +11,12 @@ Me chamo Verônica Nunes, tenho 16 anos e sou de São Paulo. Estou no ensino mé
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://www.instagram.com/alvarowrl/">
-        <img 
-            alt="insta" 
-            title="Me siga!!!" 
-            src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
-        />
+    <!-- <a href="https://www.instagram.com/alvarowrl/"> -->
+        <!-- <img  -->
+            <!-- alt="insta"  -->
+            <!-- title="Me siga!!!"  -->
+            <!-- src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" -->
+        <!-- /> -->
     </a> 
     
 </p>
